@@ -3,6 +3,7 @@
 - Groupe Achraf ELMAHMOUDI Cyprien LEGRAND => Domotique et sécurité // Surveillance habitation avec capteurs caméra en wifi
 - Groupe Alexandre BOTTERO Vincent HERREROS => Machine à cocktails
 - Groupe Mégane Wintz Loïc Combis => Projet Thalès Espace
+- Groupe Ophelie PIEKAREK Enzo FABRE => Projet d'aide aux aveugles 
 
 | GROUPE 2 | 
 - Groupe Ilias MELLAH James TERRIEN => Sécurité et domotique // utilisation de la reconnaissance vocal pour deverouiller un detecteur de mouvement 
