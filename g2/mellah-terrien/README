@@ -4,3 +4,7 @@ Sécurité et domotique
 
 Nous souhaitons créer un capteur de mouvement pour maison/appartement qui verifie si un intru glisse à l'intérieur de la maison.
 Nous souhaitons activer une fonction de reconnaissance vocal pour la désactivation de l'alarme.
+
+L'objectif serait d'utiliser un capteur de mouvement à ultrasons, un autre capteur micro et un haut parleur. Enfin si possible, l'utilisation d'une webcam serait un plus. 
+
+Afin de ne pas avoir trop de difficulté avec la reconnaissance vocal, nous imposerions l'utilisation de chiffre dans le code de déverouillage. 
