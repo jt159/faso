@@ -8,8 +8,7 @@
 - Groupe Amin BAZAZ Thomas NEPLAZ => Projet contrôle de vitesse en course à pied
 - Groupe Hamelina Julia EHAMELO Jade HENNEBERT => déchet basket (campagne propreté)
 - Groupe Xeryus MAUGUY Fabien TURGUT => Organisation Nutritionelle Améliorée
-
->>>>>>> 5472dff3daa89d2b166b493ccdd2700c481e8a23
+- Groupe Rémi BELLICOT Johanna BOITEUX => ""
 
 | GROUPE 2 | 
 - Groupe Ilias MELLAH James TERRIEN => Sécurité et domotique // utilisation de la reconnaissance vocal pour deverouiller un detecteur de mouvement 
