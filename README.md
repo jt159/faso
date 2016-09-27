@@ -8,6 +8,7 @@
 - Groupe Rémi BELLICOT Johanna BOITEUX => ""
 - Groupe Hamelina Julia EHAMELO Jade HENNEBERT => déchet basket (campagne propreté) 
 - Groupe Xeryus MAUGUY Fabien TURGUT => Organisation Nutritionelle Améliorée
+-Groupe Yves-alain AGBODJOGBE Mehdi DELVAUX => Ambiance lumineuse par rapport au niveau sonore (Appel a projet Musée Fabre)
 
 | GROUPE 2 | 
 - Groupe Ilias MELLAH James TERRIEN => Sécurité et domotique // utilisation de la reconnaissance vocal pour deverouiller un detecteur de mouvement 
