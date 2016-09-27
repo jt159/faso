@@ -2,6 +2,7 @@
 | GROUPE 1 |
 - Groupe Achraf ELMAHMOUDI Cyprien LEGRAND => Domotique et sécurité // Surveillance habitation avec capteurs caméra en wifi
 - Groupe Alexandre BOTTERO Vincent HERREROS => Machine à cocktails
+- Groupe Cyril PLUCHE Romain Thevenon => Machine à plier le linge (ou à nourrir les chats)
 
 | GROUPE 2 | 
 - Groupe Ilias MELLAH James TERRIEN => Sécurité et domotique // utilisation de la reconnaissance vocal pour deverouiller un detecteur de mouvement 
