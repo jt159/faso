@@ -1,4 +1,6 @@
 # faso
+| GROUPE 1 |
+- Groupe Achraf ELMAHMOUDI Cyprien LEGRAND => Domotique et sécurité // Surveillance habitation avec capteurs caméra en wifi
 | GROUPE 2 | 
 - Groupe Ilias MELLAH James TERRIEN => Sécurité et domotique // utilisation de la reconnaissance vocal pour deverouiller un detecteur de mouvement 
 - Groupe Adrien ROUX Anna WIKSTROM => Ethylotest // Utilisation d'un capteur MQ-3, couplé avec une balance pour mesurer le taux d'alcoolémie d'une personne.
