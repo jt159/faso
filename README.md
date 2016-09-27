@@ -6,6 +6,8 @@
 - Groupe Mégane Wintz Loïc Combis => Projet Thalès Espace
 - Groupe Ophelie PIEKAREK Enzo FABRE => Projet d'aide aux aveugles 
 - Groupe Joris GRANEL Justin ESCALIER => A determiner
+- Groupe Ophelie PIEKAREK Enzo FABRE => Projet d'aide aux aveugles / robot souris pour chat
+- Groupe Hamelina Julia EHAMELO Jade HENNEBERT => déchet basket (campagne propreté) 
 
 | GROUPE 2 | 
 - Groupe Ilias MELLAH James TERRIEN => Sécurité et domotique // utilisation de la reconnaissance vocal pour deverouiller un detecteur de mouvement 
