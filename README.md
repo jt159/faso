@@ -7,4 +7,4 @@
 - Groupe Matthieu DYE Tristan RIVIERE Clément ROIG => Appel à projet SEB : bien-être en cuisine
 - Groupe Toinon GEORGET Alex AUFAUVRE => Kit Assistance Secourisme 
 - Groupe Florent BERLAND Hugo LECLER => Projet NAO
-
+- Groupe Faiza => " "
