@@ -6,3 +6,4 @@
 - Groupe Adrien ROUX Anna WIKSTROM => Ethylotest // Utilisation d'un capteur MQ-3, couplé avec une balance pour mesurer le taux d'alcoolémie d'une personne.
 - Groupe Matthieu DYE Tristan RIVIERE Clément ROIG => Appel à projet SEB : bien-être en cuisine
 - Groupe Toinon GEORGET Alex AUFAUVRE => Kit Assistance Secourisme 
+- Groupe Florent BERLAND Hugo LECLER => Projet NAO
