@@ -2,3 +2,8 @@ Bottero Alexandre
 Herreros Vincent
 
 La machine à cocktails
+
+On choisi le cocktail que l'on veut parmi une liste en bluetooth.
+on insère le verre dans la machine est celui-ci se déplace sur un tapis roulant.
+Il s'arrete au bouteille demandé et se rempli de la quantité voulu.
+Il continue ça route jusqu'à la fin du tapis et est servi au consommateur.	
