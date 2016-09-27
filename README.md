@@ -4,11 +4,17 @@
 - Groupe Alexandre BOTTERO Vincent HERREROS => Machine à cocktails
 - Groupe Cyril PLUCHE Romain Thevenon => Machine à plier le linge (ou à nourrir les chats)
 - Groupe Mégane Wintz Loïc Combis => Projet Thalès Espace
+- Groupe Ophelie PIEKAREK Enzo FABRE => Projet d'aide aux aveugles 
+- Groupe Joris GRANEL Justin ESCALIER => A determiner
 - Groupe Ophelie PIEKAREK Enzo FABRE => Projet d'aide aux aveugles / robot souris pour chat
-- Groupe Rémi BELLICOT Johanna BOITEUX => ""
 - Groupe Hamelina Julia EHAMELO Jade HENNEBERT => déchet basket (campagne propreté) 
+- Groupe Ophelie PIEKAREK Enzo FABRE => Projet d'aide aux aveugles / robot souris pour chat 
+- Groupe Amin BAZAZ Thomas NEPLAZ => Projet contrôle de vitesse en course à pied
+- Groupe Hamelina Julia EHAMELO Jade HENNEBERT => déchet basket (campagne propreté)
 - Groupe Xeryus MAUGUY Fabien TURGUT => Organisation Nutritionelle Améliorée
--Groupe Yves-alain AGBODJOGBE Mehdi DELVAUX => Ambiance lumineuse par rapport au niveau sonore (Appel a projet Musée Fabre)
+- Groupe Yves-alain AGBODJOGBE Mehdi DELVAUX => Ambiance lumineuse par rapport au niveau sonore (Appel a projet Musée Fabre)
+- Groupe Rémi BELLICOT Johanna BOITEUX => ""
+
 
 | GROUPE 2 | 
 - Groupe Ilias MELLAH James TERRIEN => Sécurité et domotique // utilisation de la reconnaissance vocal pour deverouiller un detecteur de mouvement 
