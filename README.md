@@ -6,3 +6,4 @@
 - Groupe Toinon GEORGET Alex AUFAUVRE => Kit Assistance Secourisme 
 - Groupe Florent BERLAND Hugo LECLER => Projet NAO
 - Groupe Faiza => " "
+
