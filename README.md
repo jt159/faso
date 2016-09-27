@@ -8,6 +8,11 @@
 - Groupe Joris GRANEL Justin ESCALIER => A determiner
 - Groupe Ophelie PIEKAREK Enzo FABRE => Projet d'aide aux aveugles / robot souris pour chat
 - Groupe Hamelina Julia EHAMELO Jade HENNEBERT => déchet basket (campagne propreté) 
+- Groupe Ophelie PIEKAREK Enzo FABRE => Projet d'aide aux aveugles / robot souris pour chat 
+- Groupe Amin BAZAZ Thomas NEPLAZ => Projet contrôle de vitesse en course à pied
+- Groupe Hamelina Julia EHAMELO Jade HENNEBERT => déchet basket (campagne propreté)
+- Groupe Xeryus MAUGUY Fabien TURGUT => Organisation Nutritionelle Améliorée
+- Groupe Rémi BELLICOT Johanna BOITEUX => ""
 
 | GROUPE 2 | 
 - Groupe Ilias MELLAH James TERRIEN => Sécurité et domotique // utilisation de la reconnaissance vocal pour deverouiller un detecteur de mouvement 
