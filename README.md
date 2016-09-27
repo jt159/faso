@@ -5,6 +5,7 @@
 - Groupe Cyril PLUCHE Romain Thevenon => Machine à plier le linge (ou à nourrir les chats)
 - Groupe Mégane Wintz Loïc Combis => Projet Thalès Espace
 - Groupe Ophelie PIEKAREK Enzo FABRE => Projet d'aide aux aveugles / robot souris pour chat 
+- Groupe Amin BAZAZ Thomas NEPLAZ => Projet contrôle de vitesse en course à pied
 
 | GROUPE 2 | 
 - Groupe Ilias MELLAH James TERRIEN => Sécurité et domotique // utilisation de la reconnaissance vocal pour deverouiller un detecteur de mouvement 
