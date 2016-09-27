@@ -5,6 +5,7 @@
 - Groupe Cyril PLUCHE Romain Thevenon => Machine à plier le linge (ou à nourrir les chats)
 - Groupe Mégane Wintz Loïc Combis => Projet Thalès Espace
 - Groupe Ophelie PIEKAREK Enzo FABRE => Projet d'aide aux aveugles 
+- Groupe Joris GRANEL Justin ESCALIER => A determiner
 
 | GROUPE 2 | 
 - Groupe Ilias MELLAH James TERRIEN => Sécurité et domotique // utilisation de la reconnaissance vocal pour deverouiller un detecteur de mouvement 
