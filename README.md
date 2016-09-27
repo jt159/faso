@@ -1,6 +1,6 @@
 # faso
 | GROUPE 1 |
-- Groupe Achraf ELMAHMOUDI Cyprien LEGRAND => Domotique et sécurité // Surveillance habitation avec capteurs caméra en wifi
+- Groupe Achraf ELMAHMOUDI Cyprien LEGRAND => Domotique et sécurité // Surveillance habitation avec capteurs en wifi
 - Groupe Alexandre BOTTERO Vincent HERREROS => Machine à cocktails
 - Groupe Cyril PLUCHE Romain Thevenon => Machine à plier le linge (ou à nourrir les chats)
 - Groupe Mégane Wintz Loïc Combis => Projet Thalès Espace
