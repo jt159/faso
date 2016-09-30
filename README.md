@@ -23,4 +23,4 @@
 - Groupe Toinon GEORGET Alex AUFAUVRE => Kit Assistance Secourisme 
 - Groupe Florent BERLAND Hugo LECLER => Projet NAO
 - Groupe Faiza => " "
-- Groupe Kévin Hassan et Godefroi Roussel => ... :octopus: :fire: :+1:
+- Groupe Kévin Hassan et Godefroi Roussel => Encombrement des salles et optimisation du chemin à suivre en fonction de l'encombrement
