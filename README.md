@@ -18,8 +18,10 @@
 | GROUPE 2 |
 - Groupe Ilias MELLAH James TERRIEN => Sécurité et domotique // utilisation de la reconnaissance vocal pour deverouiller un detecteur de mouvement
 - Groupe Adrien ROUX Anna WIKSTROM => Ethylotest // Utilisation d'un capteur MQ-3, couplé avec une balance pour mesurer le taux d'alcoolémie d'une personne.
-- Groupe Matthieu DYE Tristan RIVIERE Clément ROIG => Appel à projet SEB : bien-être en cuisine
+- Groupe Matthieu DYE Tristan RIVIERE Clément ROIG => Appel à projet SEB : bien-être en cuisine // Balance pour aliments connectée 
 - Groupe Toinon GEORGET Alex AUFAUVRE => Kit Assistance Secourisme
 - Groupe Florent BERLAND Hugo LECLER => Projet NAO
 - Groupe Mohamed Iheb FAIZA Soufiane BENCHRAA  => Système de sécurité musée
 - Groupe Kévin Hassan et Godefroi Roussel => Encombrement des salles et optimisation du chemin à suivre en fonction de l'encombrement
+- Groupe Assil EL YAHYAOUI et Lucie TRUONG => Projet NAO
+- Groupe Chloé DALGER et Mahé SPAENLE => Photo Booth 
