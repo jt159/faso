@@ -23,3 +23,5 @@
 - Groupe Florent BERLAND Hugo LECLER => Projet NAO
 - Groupe Mohamed Iheb FAIZA Soufiane BENCHRAA  => Système de sécurité musée
 - Groupe Kévin Hassan et Godefroi Roussel => Encombrement des salles et optimisation du chemin à suivre en fonction de l'encombrement
+- Groupe Assil EL YAHYAOUI et Lucie TRUONG => Projet NAO
+- Groupe Chloé DALGER et Mahé SPAENLE => Photo Booth 
