@@ -1,3 +1,10 @@
 Example of similar project measuring alcohol:
 Arduino + MQ3 : http://www.instructables.com/id/Arduino-Breathalyzer/step3/The-Code/
 Adruino + hx711 : http://www.instructables.com/id/Make-your-weighing-scale-hack-using-arduino/step3/Connecting-sensor-to-Arduino/
+
+
+Matériels :
+Arduino Uno
+Hx711 amplifier
+Load cell x2
+Une plaque pour installer les cellules en dessous. 
