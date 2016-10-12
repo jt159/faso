@@ -26,3 +26,4 @@
 - Groupe Assil EL YAHYAOUI et Lucie TRUONG => Projet NAO
 - Groupe Chloé DALGER et Mahé SPAENLE => Photo Booth 
 - Groupe Kévin GIORDANI et Maxime SOUSTELLE => Borne d'aide au guidage musée
+- Groupe Clément LOUBIERE et Thaïs AURARD => projet musique musée
