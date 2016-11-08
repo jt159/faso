@@ -8,3 +8,7 @@ Nous souhaitons activer une fonction de reconnaissance vocal pour la désactivat
 L'objectif serait d'utiliser un capteur de mouvement à ultrasons, un autre capteur micro et un haut parleur. Enfin si possible, l'utilisation d'une webcam serait un plus. 
 
 Afin de ne pas avoir trop de difficulté avec la reconnaissance vocal, nous imposerions l'utilisation de chiffre dans le code de déverouillage. 
+
+
+LE 8/11: Afin de pouvoir travailler plus simplement sur notre projet, nous nous sommes procuré un raspberry pi, un shiel grove ansi que d'un micro pour la reconnaissance vocal. Nous aurons donc seulement besoin du capteur à ultrason. 
+	Installation et mise en place du raspberry, cofiguration de la connection ssh. 
